@@ -1,0 +1,5 @@
+package br.com.generation.blog.pessoal.configuration;
+
+public class SwaggerConfig {
+
+}
